@@ -5,7 +5,7 @@ function App() {
     <div className="App">
 
         <p>
-          hallotjez
+        Dit is een text update om te checken of het werkt
         </p>
         <a
           className="App-link"
@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World :)
+          Faka Niffos ;)
         </a>
     
     </div>
